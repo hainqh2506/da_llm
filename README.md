@@ -4,8 +4,23 @@
 
 Chào mừng bạn đến với kênh Data Science Lab! Trong video này, mình sẽ cùng với bạn xây dựng một công cụ phân tích dữ liệu hữu ích và tiện lợi là DAGPT (Data Analysis GPT). Công cụ này sử dụng các mô hình ngôn ngữ lớn (LLMs) để hỗ trợ việc thao tác và phân tích dữ liệu thông qua giao diện đàm thoại. Dự án này sử dụng Python, Langchain, Streamlit, PyGWalker, OpenAI API để tạo ra một ứng dụng web tương tác, cho phép người dùng tải lên dữ liệu, đặt câu hỏi, khám phá dữ liệu và nhận được các phân tích chi tiết.
 
-## Nội Dung Video
+## Application Interface
 
+### Chat With Your Data
+
+![Chat With Your Data](images/chat_with_data.png)
+Welcome! Upload your CSV file, enter your query, and let the agent handle the rest.
+
+### Interactive Visualization Tool
+
+![Interactive Visualization Tool](images/interactive_visualization_tool.png)
+Welcome! This tool allows you to explore your data interactively using various visualizations. Upload your dataset and start analyzing!
+
+### Demo Video
+
+![Demo Video](videos/demo_clip_v2.gif)
+
+## Nội dung
 ### 1. Giới Thiệu về DAGPT
 
 - **Tổng quan:** DAGPT là một công cụ phân tích dữ liệu sử dụng các mô hình ngôn ngữ lớn để hỗ trợ các tác vụ phân tích và thao tác dữ liệu qua giao diện đàm thoại.
